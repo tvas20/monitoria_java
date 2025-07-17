@@ -1,7 +1,7 @@
 public class ItemAlreadyExists extends Exception {
 
     public ItemAlreadyExists() {
-        super("Item já existe");
+        super("Item ja existe");
     }
 
 }

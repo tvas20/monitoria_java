@@ -1,6 +1,6 @@
 public class NotEnoughSpace extends Exception {
     
     public NotEnoughSpace() {
-        super("Não há espaço suficiente para adicionar o item");
+        super("Nao ha espaco suficiente para adicionar o item");
     }
 }
